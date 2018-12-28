@@ -48,3 +48,12 @@ $ node HelloWorld.js
 | >= | greater than or equal to | 
 | <=  | less than or equal to | 
 | ?  | ternary operator | 
+
+
+
+
+
+
+### References:
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+* https://www.w3schools.com/js/default.asp
