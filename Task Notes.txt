@@ -1,6 +1,7 @@
 
-Next task:
+Next task: Splicing an Array
 https://www.w3schools.com/js/js_array_methods.asp
+
 
 
 
