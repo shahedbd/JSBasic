@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        function debugThis(a, b) {
+            debugger;
+            return a + b;
+        }
+        var abc = debugThis(1, 2)
+        console.log(abc)
+    </script>
+</head>
+
+<body>
+
+    <h1>A Web Page</h1>
+    <p id="demo">A Paragraph</p>
+    <button type="button" onclick="debugThis()">Try it</button>
+
+</body>
+
+</html>

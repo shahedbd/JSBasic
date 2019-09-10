@@ -1,0 +1,5 @@
+https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a
+
+
+How to Find Bugs in Your JavaScript Code With the Debugger
+https://medium.com/better-programming/how-to-find-bugs-in-your-code-with-the-debugger-a7f739ea98
