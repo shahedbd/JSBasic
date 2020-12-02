@@ -35,6 +35,11 @@ console.log(myVariable);
 ```
 $ node HelloWorld.js
 ```
+### Or
+```
+Mac: Control + Option + N
+Windows: Control + Alt + N
+```
 
 ### JavaScript Comparison Operators
 | Operator        | Description  |
